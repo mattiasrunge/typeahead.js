@@ -30,7 +30,7 @@
     }
   ],
   "license": "See license in LICENSE",
-  "dependencies": {
+  "peerDependencies": {
     "jquery": ">=1.7"
   },
   "devDependencies": {
